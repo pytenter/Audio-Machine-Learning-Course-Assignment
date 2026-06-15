@@ -1,0 +1,18 @@
+{
+  "classes": [
+    "dog",
+    "rain",
+    "crying_baby",
+    "clock_tick"
+  ],
+  "feature_dimension": 80,
+  "train_samples": 112,
+  "test_samples": 48,
+  "pca_components_80": 14,
+  "pca_variance_80": 0.8105814456939697,
+  "best_k": 4,
+  "best_knn_cv_accuracy": 0.7766798418972332,
+  "knn_test_accuracy": 0.7291666666666666,
+  "svm_test_accuracy": 0.875,
+  "better_model": "RBF-SVM"
+}
